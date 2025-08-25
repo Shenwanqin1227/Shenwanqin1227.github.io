@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a 1st-year Master student at the Institute of Artificial Intelligence, Soochow University. My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Fang Kong](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.suda.edu.cn/), SooChow University. I was advised by [Prof. Fang Kong](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.suda.edu.cn/), SooChow University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
